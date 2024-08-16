@@ -1,0 +1,21 @@
+{
+  "name": "honey-bee",
+  "displayName": "Honey Bee",
+  "description": "A honey and bee Visual Studio Code color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Honey Bee Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/honey-bee-night-color-theme.json"
+      }
+    ]
+  }
+}
