@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Honey Bee Night",
+        "label": "Honey Bee",
         "uiTheme": "vs-dark",
-        "path": "./themes/honey-bee-night-color-theme.json"
+        "path": "./themes/honey-bee-color-theme.json"
       }
     ]
   }
